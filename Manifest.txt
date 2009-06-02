@@ -1,0 +1,12 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/rbwikipedia-film.rb
+lib/rbwikipedia-film/version.rb
+lib/rbwikipedia-film/film.rb
+lib/rbwikipedia-film/search.rb
+lib/rbwikipedia-film/fetch.rb
+setup.rb
+test/test_helper.rb
+test/test_film.rb
